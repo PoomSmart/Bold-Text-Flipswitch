@@ -1,0 +1,13 @@
+Package: com.ps.boldtextflipswitch
+Name: Bold Text Flipswitch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Flipswitch for Bold Text
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Addons (Flipswitch)
+Depends: mobilesubstrate (>= 0.9.5000), com.a3tweaks.flipswitch, firmware (>= 7.0)
+Replaces: org.thebigboss.boldtextflipswitch
+Provides: org.thebigboss.boldtextflipswitch
+Conflicts: org.thebigboss.boldtextflipswitch
+Tag: purpose::extension
